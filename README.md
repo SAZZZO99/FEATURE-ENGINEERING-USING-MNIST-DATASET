@@ -33,3 +33,9 @@ Each pixel column in the training set has a name like pixelx, where x is an inte
 <h3> DEEP LEARNING MODEL ARCHITECTURE </h3>
 
 ![Screenshot (345)](https://user-images.githubusercontent.com/45651397/92355546-1606e280-f102-11ea-8253-dc1bdd94eae7.png)
+
+<h3>USING LSTMs </h3>
+
+Long short-term memory (LSTM) is an artificial recurrent neural network (RNN) architecture used in the field of deep learning. Unlike standard feedforward neural networks, LSTM has feedback connections. It can not only process single data points (such as images), but also entire sequences of data (such as speech or video).A common LSTM unit is composed of a cell, an input gate, an output gate and a forget gate. The cell remembers values over arbitrary time intervals and the three gates regulate the flow of information into and out of the cell.
+
+
